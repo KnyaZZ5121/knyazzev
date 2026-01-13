@@ -1,0 +1,30 @@
+.part-randomizer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px;
+  font-family: "Roboto", "Arial", sans-serif;
+}
+
+.part-randomizer__title {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.part-randomizer__button {
+  border: none;
+  border-radius: 4px;
+  background: #ff8800;
+  color: #fff;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.part-randomizer__button:hover {
+  background: #ff9f2d;
+}
+
+.part-randomizer__note {
+  font-size: 12px;
+  opacity: 0.8;
+}
