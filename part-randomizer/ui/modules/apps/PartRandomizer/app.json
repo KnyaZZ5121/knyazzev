@@ -1,0 +1,11 @@
+{
+  "name": "Random Tuning",
+  "author": "knyazzev",
+  "version": "1.0.0",
+  "description": "Кнопка для установки случайных запчастей и случайных значений тюнинга.",
+  "directive": "part-randomizer",
+  "js": ["app.js"],
+  "css": ["app.css"],
+  "lua": ["part_randomizer.lua"],
+  "group": "ui"
+}

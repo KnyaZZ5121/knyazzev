@@ -1,0 +1,8 @@
+{
+  "name": "Part Randomizer UI",
+  "author": "knyazzev",
+  "version": "1.0.0",
+  "description": "UI мод для BeamNG.drive: кнопка Random Tuning ставит случайные запчасти и случайные значения тюнинга.",
+  "type": "mod",
+  "scripts": ["lua/ge/extensions/part_randomizer.lua"]
+}
