@@ -1,0 +1,7 @@
+{
+  "domElement": "randomTuning",
+  "name": "Random Tuning",
+  "icon": "random",
+  "description": "Randomizes parts and tuning values for the current vehicle.",
+  "size": [200, 120]
+}
